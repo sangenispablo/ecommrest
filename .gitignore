@@ -1,0 +1,4 @@
+node_modules
+.env
+src/database/ecommerce-b0c46-firebase-adminsdk-b6crb-912ab58669.json
+src/database/ecommerce-b0c46-firebase-adminsdk-b6crb-13942d9a76.json
