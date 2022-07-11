@@ -1,4 +1,4 @@
-# Servidor WEB con ExpressJS + Socket con socket.io + KnexJS
+# Servidor Rest Full con persistencia en MongoDB Atlas o Firebase
 
 ### Para instalar los paquetes necesarios usar:
 
